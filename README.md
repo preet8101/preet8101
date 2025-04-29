@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
 <br/>
-## Github Stats  
+<h2>## Github Stats</h2>  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=preet8101&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
