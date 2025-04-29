@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Reactjs**
 
-- 🌱 I have  currently completed Internship & Training on  **ReactJs**
+- 🌱 I have  recently completed Internship & Training on  **ReactJs**
 
 - 💬 Ask me about **Reactjs**
 
