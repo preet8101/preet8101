@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **Reactjs**
+- 🔭 I’m currently working on **ReactJs**
 
 - 🌱 I have  recently completed Internship & Training on  **ReactJs**
 
